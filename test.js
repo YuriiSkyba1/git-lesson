@@ -148,6 +148,3 @@ dddddd
 function b(){
 
 }console.log()
-function b(){
-
-}
